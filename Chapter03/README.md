@@ -30,11 +30,11 @@ This folder contains the code to scrape OpenTable data using Scrapy and Selenium
 
 #### SeekingAlpha Earnings Transcripts
 
-The subfolder contains the code to scrape earnings call transcripts from the [SeekingAlpha](www.seekingalpha.com) website.
+The subfolder contains the code to scrape earnings call transcripts from the [SeekingAlpha](https://www.seekingalpha.com) website.
 
 #### Python Libraries
 - requests [docs](http://docs.python-requests.org/en/master/)
 - beautifulsoup [docs](https://www.crummy.com/software/BeautifulSoup/bs4/doc/﻿)
 - Selenium [docs](https://www.seleniumhq.org/﻿)
-- Scrapy [docs](https://scapy.readthedocs.io/en/latest/)
+- Scrapy [docs](https://scrapy.readthedocs.io/en/latest/)
 

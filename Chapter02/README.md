@@ -130,11 +130,11 @@ The folder [03_sec_edgar](03_sec_edgar) contains the notebook [edgar_xbrl](03_se
 ### Other fundamental data sources
 
 - [Compilation of macro resources by the Yale Law School](https://library.law.yale.edu/news/75-sources-economic-data-statistics-reports-and-commentary)
-- [Capital IQ](www.capitaliq.com)
-- [Compustat](www.compustat.com)
-- [MSCI Barra](www.mscibarra.com)
-- [Northfield Information Services](www.northinfo.com)
-- [Quantitative Services Group](www.qsg.com)
+- [Capital IQ](https://www.capitaliq.com)
+- [Compustat](https://www.compustat.com)
+- [MSCI Barra](https://www.mscibarra.com)
+- [Northfield Information Services](https://www.northinfo.com)
+- [Quantitative Services Group](https://www.qsg.com)
 
 
 ### Efficient data storage with pandas
